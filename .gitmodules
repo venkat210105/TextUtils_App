@@ -1,3 +1,3 @@
-[submodule "TEXTUTILS"]
-	path = TEXTUTILS
-	url = https://github.com/venkat210105/TextUtils_App.git
+[submodule "Textutils"]
+   path = Textutils
+   url = https://github.com/venkat210105/TextUtils_App.git
