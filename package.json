@@ -1,5 +1,5 @@
 {
-  "homepage": "https://venkat210105.github.io/textutils",
+  "homepage": "https://venkat210105.github.io/TextUtils_App",
   "name": "textutils",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-   "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
@@ -41,6 +41,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.2.0"
   }
 }
